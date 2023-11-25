@@ -9,6 +9,9 @@
 
 #2.Insta Like Button  ---> #https://athul-kumar.github.io/JS-Beginner-Projects/DOM-Projects/instalike/
 
+![Uploading Screenshot 2023-11-25 112552.png…]()
+
+
 #3.Custom Cusor Design  ---> #https://athul-kumar.github.io/JS-Beginner-Projects/DOM-Projects/customCursor/
 
 
