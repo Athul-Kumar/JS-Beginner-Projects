@@ -22,3 +22,8 @@
 #4.Mutiple Image Hover Effect  ----> #https://athul-kumar.github.io/JS-Beginner-Projects/DOM-Projects/multiImageHover/
 
 ![Screenshot 2023-11-26 115928](https://github.com/Athul-Kumar/JS-Beginner-Projects/assets/109644387/4b422b36-7720-49bc-89ec-7673ebdb1a6c)
+
+#5.Instagram story Effect  ---->  #https://athul-kumar.github.io/JS-Beginner-Projects/DOM-Projects/instaStory/
+
+![Screenshot 2023-11-29 150913](https://github.com/Athul-Kumar/JS-Beginner-Projects/assets/109644387/069cc583-2542-4426-8bcd-9d18caf3f545)
+
